@@ -2,4 +2,4 @@
 Test jak to vlastně funguje
 
 
-Připisuji přímo
+Připisuji přímo. Do Mastru
