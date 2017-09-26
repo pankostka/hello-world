@@ -11,3 +11,5 @@ Připisuji přímo. Do Mastru
 * __bold__, **bold**
 * `monospace`.
 
+Takto vypadá [link na seznam](https://www.seznam.cz/)
+
